@@ -121,7 +121,7 @@ this module working.
 
 =head1 AVAILABILITY
 
-GitHub
+GitHub L<https://github.com/yakubori/Data-ID-URL-Shrink>
 
 =head1 COPYRIGHT
 
