@@ -15,7 +15,7 @@ name: Data-ID-URL-Shrink
 provides:
   Data::ID::URL::Shrink:
     file: lib/Data/ID/URL/Shrink.pm
-    version: 0.01
+    version: 0.02
 requires:
   Exporter: v5.6.7
   Module::Build: 0.4003
@@ -24,4 +24,4 @@ requires:
   perl: v5.16.2
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.01
+version: 0.02

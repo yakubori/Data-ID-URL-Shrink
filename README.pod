@@ -1,9 +1,8 @@
 
-=head1 NAME
+=head1 SUMMARY
 
 Data::ID::URL::Shrink - Shorten numeric IDs, for nicer URLs and more.
 
-=head1 SUMMARY
 
 This module is intended to help those looking for a way to shorten numerical ID
 values.

@@ -32,7 +32,7 @@
    "provides" : {
       "Data::ID::URL::Shrink" : {
          "file" : "lib/Data/ID/URL/Shrink.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       }
    },
    "release_status" : "stable",
@@ -41,5 +41,5 @@
          "http://dev.perl.org/licenses/"
       ]
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }

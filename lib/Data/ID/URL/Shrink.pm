@@ -11,7 +11,7 @@ our %EXPORT_TAGS = (
   encoding => [qw(shrink_id stretch_id)],
   all => [qw(shrink_id stretch_id random_id)]
 );
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use constant SHRINKB50 => '023456789BCDFGHJKLMNPQRSTVWXYZbcdfghjkmnpqrstvwxyz';
 use constant SHRINKSIZE => length SHRINKB50;
