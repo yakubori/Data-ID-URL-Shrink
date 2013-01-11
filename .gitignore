@@ -1,12 +1,10 @@
 .*
 *~
 !.gitignore
-!.perltidyrc
-!.travis.yml
-blib
-pm_to_blib
+_build
+Build
+!Build.PL
 Makefile*
 !Makefile.PL
-MANIFEST*
-!MANIFEST.SKIP
-*META.*
+MANIFEST.SKIP
+MYMETA*
