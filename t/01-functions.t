@@ -41,7 +41,7 @@ for my $d (@$data) {
   my ($tv, $tr) = @$d;
   my $id = shrink_id($tv);
   my $num = stretch_id($id);
-  ok($id eq $tr && $num eq $tv, "There and back again OK: $tv <=> $tr");
+  ok($id eq $tr && $num eq $tv, "There and back again OK: $tv <=> $id and $tr <=> $num");
 }
 
 BEGIN {
